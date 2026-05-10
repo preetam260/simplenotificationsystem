@@ -9,9 +9,7 @@ public class NotificationService
         this helps if company wants to extend to whatsapp service: 
         we can have a new service whatsapp inheriting Inotification 
             public class WhatsappNptifiation : INotification {
-                public void Send(...) {
-                ...
-            }
+                public void Send() {}
         */
     }
 }
