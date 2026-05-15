@@ -4,7 +4,7 @@ namespace notificationsystem.Databases;
 
 public class DbConnection
 {
-    private readonly string connection = "host=localhost;Port=5432;Username=murasaki;Password=123456;Database=notificationdb";
+    private readonly string connection = "host=localhost;Port=5432;Username=yourusername;Password=yourpassword;Database=notificationdb";
     
     public NpgsqlConnection GetConnection()
     {
