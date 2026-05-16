@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 
-public abstract class AbstractRepository<T> : IRepository<T>
-{
+public abstract class AbstractRepository<T> : IRepository<T> 
+{   // abstract repository is used as some methods are universal and some vary
     protected List<T> items = new List<T>();
 
     public virtual void Add(T item) => items.Add(item);
