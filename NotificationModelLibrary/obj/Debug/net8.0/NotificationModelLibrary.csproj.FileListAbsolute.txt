@@ -1,0 +1,12 @@
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/bin/Debug/net8.0/NotificationModelLibrary.deps.json
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/bin/Debug/net8.0/NotificationModelLibrary.dll
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/bin/Debug/net8.0/NotificationModelLibrary.pdb
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/obj/Debug/net8.0/NotificationModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/obj/Debug/net8.0/NotificationModelLibrary.AssemblyInfoInputs.cache
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/obj/Debug/net8.0/NotificationModelLibrary.AssemblyInfo.cs
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/obj/Debug/net8.0/NotificationModelLibrary.csproj.CoreCompileInputs.cache
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/obj/Debug/net8.0/NotificationModelLibrary.sourcelink.json
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/obj/Debug/net8.0/NotificationModelLibrary.dll
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/obj/Debug/net8.0/refint/NotificationModelLibrary.dll
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/obj/Debug/net8.0/NotificationModelLibrary.pdb
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationModelLibrary/obj/Debug/net8.0/ref/NotificationModelLibrary.dll

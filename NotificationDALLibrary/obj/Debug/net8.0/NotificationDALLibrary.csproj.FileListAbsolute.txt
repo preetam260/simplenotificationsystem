@@ -1,0 +1,16 @@
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/bin/Debug/net8.0/NotificationDALLibrary.deps.json
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/bin/Debug/net8.0/NotificationDALLibrary.dll
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/bin/Debug/net8.0/NotificationDALLibrary.pdb
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/bin/Debug/net8.0/NotificationModelLibrary.dll
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/bin/Debug/net8.0/NotificationModelLibrary.pdb
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/NotificationDALLibrary.csproj.AssemblyReference.cache
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/NotificationDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/NotificationDALLibrary.AssemblyInfoInputs.cache
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/NotificationDALLibrary.AssemblyInfo.cs
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/NotificationDALLibrary.csproj.CoreCompileInputs.cache
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/NotificationDALLibrary.sourcelink.json
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/Notifica.69973E61.Up2Date
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/NotificationDALLibrary.dll
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/refint/NotificationDALLibrary.dll
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/NotificationDALLibrary.pdb
+/Users/murasaki/Downloads/simplenotificationsystem/NotificationDALLibrary/obj/Debug/net8.0/ref/NotificationDALLibrary.dll
