@@ -1,4 +1,4 @@
-namespace NotificationModelLibrary;
+namespace NotificationModelLibrary.Models;
 
 public class User
 {

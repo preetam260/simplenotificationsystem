@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using NotificationDALLibrary;
 using NotificationBLLibrary;
-using NotificationModelLibrary;
+using NotificationModelLibrary.Models;
 
-public class Program() {
+public class Program {
     static void Main(string[] args)
     {
     var options = new DbContextOptionsBuilder<AppDbContext>()
@@ -37,7 +37,7 @@ public class Program() {
             case "2":
                 var users = notification.GetAllUsers();
                 foreach(User userr in users)
-                      System.Console.WriteLine($"name: '{userr.Username}, id: {userr.Id}");                
+                      System.Console.WriteLine($"name: {userr.Username}, id: {userr.Id}");                
                 
                 break;  
 
@@ -54,7 +54,7 @@ public class Program() {
                 notifi.Message = message;
                 notifi.NotificationType = type;
 
-                notification.sendNotification(notifi);
+                notification.SendNotification(notifi);
                 break;
 
             case "4":
@@ -63,6 +63,10 @@ public class Program() {
 
                 foreach(Notification notif in notificationHistory) 
                     System.Console.WriteLine($"to: {notif.User.Username}, Message: {notif.Message}, Type: {notif.NotificationType}");
+                break;
+
+            default:
+                Console.WriteLine("Invalid choice");
                 break;
         }    
     }

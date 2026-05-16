@@ -1,5 +1,5 @@
 using NotificationDALLibrary;
-using NotificationModelLibrary;
+using NotificationModelLibrary.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace NotificationBLLibrary;
@@ -23,7 +23,7 @@ public class NotificationService
     public List<User> GetAllUsers() {
         return _context.Users.ToList();
     }
-    public void sendNotification(Notification notification){
+    public void SendNotification(Notification notification){
         // Validate notification type
         string notificationType = notification.NotificationType.ToLower();
 
@@ -33,11 +33,11 @@ public class NotificationService
         if(notification.Message.Length < 5)
             throw new Exception("Message too short");
 
-        if(notification.NotificationType == "sms" && notification.Message.Length > 160)
+        if(notificationType == "sms" && notification.Message.Length > 160)
             throw new Exception("SMS too long");
             
         if (notificationType != "email" && notificationType != "sms")
-            throw new ArgumentException($"Invalid notification type");
+            throw new Exception("Invalid notification type");
 
         // Find user
         User? user = _context.Users.FirstOrDefault(u => u.Id == notification.UserId);

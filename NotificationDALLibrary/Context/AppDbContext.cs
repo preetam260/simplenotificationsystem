@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
-using NotificationModelLibrary;
+using NotificationModelLibrary.Models;
 
 namespace NotificationDALLibrary;
 

@@ -1,4 +1,5 @@
-using NotificationModelLibrary;
+using NotificationModelLibrary.Models;
+using NotificationModelLibrary.Interfaces;
 
 namespace NotificationBLLibrary;
 

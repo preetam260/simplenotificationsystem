@@ -1,4 +1,6 @@
-namespace NotificationModelLibrary;
+using NotificationModelLibrary.Models;
+
+namespace NotificationModelLibrary.Interfaces;
 
 public interface INotification
 {
