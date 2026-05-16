@@ -15,7 +15,7 @@ public class NotificationRepository : AbstractRepository<Notification>
             notif.UserId = notification.UserId; // if you want to update who youre sending notif to
             notif.Type = notification.Type;
             notif.Message = notification.Message;
-            notif.SentAt = DateTime.Now;
+            notif.SentAt = notification.SentAt; //
         }
     }
 
