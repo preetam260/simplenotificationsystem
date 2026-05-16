@@ -1,4 +1,4 @@
-public interface IRepository<T>
+public interface IRepository<T> // defines generic crud operations
 {
     void Add(T item);
     List<T> GetAll();
